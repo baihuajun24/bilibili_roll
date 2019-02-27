@@ -1,2 +1,5 @@
 # bilibili_roll
 一个帮助UP主进行动态转发抽奖的小脚本
+
+使用方式：
+chrome浏览器打开动态详情页，F12打开console，复制粘贴console_command里的代码内容。其中luckydog值为你想要抽到中奖的人数。
